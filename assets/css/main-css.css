@@ -51,7 +51,7 @@
 }
 
 .secondgraound {
-width: 590px;
+    width: 590px;
     height: auto;
     display: flex;
     flex-direction: column;
